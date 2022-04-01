@@ -12,3 +12,6 @@ class Solution:
             s.append(l[idx])
             if len(l) < 1:
                 break
+                
+ '''Runtime: 296 ms, faster than 38.93% of Python3 online submissions for Reverse String.
+Memory Usage: 18.7 MB, less than 15.24% of Python3 online submissions for Reverse String.'''
