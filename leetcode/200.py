@@ -1,0 +1,3 @@
+graph = []
+
+def numIsIslands():
